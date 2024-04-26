@@ -1,0 +1,916 @@
+[
+    {
+        "question": "Society should question every tradition",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The workers should own the means of production.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
+    {
+        "question": "We should focus on ending bigotry in our nation before looking to the rest of the world.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+    {
+        "question": "If you have nothing to hide, you have nothing to fear.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Same-sex marriage should be legal",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+
+    {
+        "question": "Religion is an oppressive hierarchy that deserves no place in public life",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "second and Third Wave Feminism are great continuations of the feminist struggle.",
+        "effect": {
+            "radi": -10, 
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The existence of a state is inherently anti-progressive and thus, must be downsized or eliminated.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+
+    {
+        "question": "From each according to his ability, to each according to his need.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The role of the state should be limited to police, courts, and military.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+
+
+
+    {
+        "question": "The modern progressive movement is not nearly militant enough.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Freer markets mean freer people.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Ideally, businesses should strive to be better than their opponents.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "We should be accepting of conservative ideas at times, and we should be wary of progress for progress' sake.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "We can't allow immigration from culturally conservative nations. Their cultures are oppressive.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 5,
+            "natn": 10
+        }
+    },
+    {
+        "question": "I support vaccine mandates.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Rent should be eliminated in society.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Wealth redistribution is a must for modern society",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "A stateless, classless, moneyless society would be ideal, even if it may not be realistic.",
+        "effect": {
+            "radi": 5,
+            "econ": 5,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The welfare state needs to be downsized or abolished.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The struggles of LGBT+ individuals have still not come close to being fully addressed.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "'LGB' is enough. Anything beyond that just holds the gay rights movement back",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Abolishing currency is desirable.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Capitalism is irredeemable and needs to be dismantled.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Sex work is real work.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Hate speech needs to be banned",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0,
+            "conv": -0
+        }
+    },
+    {
+        "question": "The United Nations is a net positive for society.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+    {
+        "question": "Climate change is a major concern and danger to humanity",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Tariffs on trade should be implemented in order to make all trade deals turn in my nation's favor..",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 5,
+            "natn": 5
+        }
+    },
+    {
+        "question": "Climate change is a global struggle.",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+    {
+        "question": "Nobody's free until everybody's free.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "All land must be public; landlords should not exist.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Gun ownership should be forbidden for those without a valid reason.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Many traditions need to be conserved.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Police are simply bandits who are there to preserve the status quo.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Big government must intervene to protect consumer interests.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 5,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Government surveillance is a necessary evil.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The nuclear family unit must be preserved.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Society should be led by an educated elite, like a team of scientists and experts in various fields.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "I like the ideas of the Italian Futurists.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 5
+        }
+    },
+    {
+        "question": "Animals deserve the same rights as humans.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Progress should never be made rapidly.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Hateful marches like neo-Nazi protests should be prohibited.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0
+        }
+    },
+    {
+        "question": "\"Straight pride\" is inherently homophobic and transphobic.",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The choice to abort is up to the mother",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Religion is very important in society.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Gender reassignment surgery is a human right",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Capitalism is to blame for many forms of oppression that still exist today",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Society is far better now than it was centuries ago.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Capitalism is the best vehicle for social progress",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Military spending has gone overboard and needs to be reduced.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": -5
+        }
+    },
+    {
+        "question": "International unions simply erode at a nation's sovereignty.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+    {
+        "question": "A strong state is needed to crush reactionaries",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "We need to maintain race/gender quotas in workplaces.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 5,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Workers' unions should be more powerful in modern society.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "question": "The economy is inherently exploitative against the working class; thus, the system is bad.",
+        "effect": {
+            "radi": 0,
+            "econ": 10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "At least one government bureaucracy is okay.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Without government, chaos would ensue.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "People should be able to do whatever they want as long as they do not directly harm another person.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "True freedom for marginalised groups can only exist once we abolish all unjust hierarchies, including the state and capitalism",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Businesses and individuals that support conservativism should be economically punished in some form, either by the community or by the state.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Transhumanism is a step too far",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "All drugs should be decriminalised",
+        "effect": {
+            "radi": -5,
+            "econ": 0,
+            "stte": -5,
+            "natn": 0
+        }
+    },
+    {
+        "question": "A moderate conservative would be better than a progressive gone overboard.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Anarcho-Capitalism is a desirable goal.",
+        "effect": {
+            "radi": 0,
+            "econ": 5,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "\"Live and let live\" is a principle we should abide by.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Absolute freedom in society would be the ideal.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Freedom of speech, freedom of religion, freedom of the press, and freedom of assembly are vital.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Progressives should disavow fanatics and anyone who takes progressivism very far.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "\"All men are created equal\" should be a principle we as a society should abide by.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The freer the market, the more innovation is made.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Quality education is a right of all people.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Legalize physician-assisted suicide.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+
+
+    {
+        "question": "The struggle for liberation is intersectional",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Freedom of sexual identity is a human right.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Progressive values only matter for freeing my own race from oppression",
+        "effect": {
+            "radi": 5,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+
+    {
+        "question": "Many rich people earn their wealth rightfully, so they should be allowed to keep it.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Modern feminism is misandry.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Abolish all national borders.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+    {
+        "question": "Regional unions, such as the European Union, are for the betterment of the nation.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+    {
+        "question": "TERFs hold progressivism back.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Progressives should try to be more accepting of those who are culturally centrist.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Ultraprogressives and 'SJWs' do nothing but discredit progressivism.",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The market can regulate itself efficiently.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Abolish the IRS.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "My nation's interests always come first.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+    {
+        "question": "We should have open borders, if any.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+
+    {
+        "question": "Free-market capitalism is necessary in the progressive movement.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "I am willing to side with my nation even if it contradicts my own values.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": 10
+        }
+    },
+    {
+        "question": "We should try to make alliances with other nations even if it may harm national sovereignty.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+    {
+        "question": "Free association in the economy is best.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "The profit motive should not be suppressed.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+    {
+        "question": "Private property is a bulwark of society.",
+        "effect": {
+            "radi": 0,
+            "econ": -10,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
+
+    {
+        "question": "A united world government would be ideal.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 0,
+            "natn": -10
+        }
+    },
+    {
+        "question": "Anarchy would not protect minorities.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "I'd rather experience anarchy than a full-blown military dictatorship.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+    {
+        "question": "I support taxing harmful addictive substances very significantly more than normal items.",
+        "effect": {
+            "radi": 5,
+            "econ": 5,
+            "stte": 5,
+            "natn": 0
+        }
+    },
+    {
+        "question": "If they are progressive, tough laws and a strict court system would be good for society.",
+        "effect": {
+            "radi": 0,
+            "econ": 0,
+            "stte": 10,
+            "natn": 0
+        }
+    }
+
+]

@@ -1,0 +1,334 @@
+[
+    {
+        "name": "Left-Wing Populism",
+        "stats": {
+            "radi": 45,
+            "econ": 65,
+            "stte": 45,
+            "natn": 30
+        }        
+    },
+
+    {
+        "name": "Left-Wing Nationalism",
+        "stats": {
+            "radi": 45,
+            "econ": 70,
+            "stte": 55,
+            "natn": 70
+        }        
+    },
+
+    {
+        "name": "Bidenism",
+        "stats": {
+            "radi": 45,
+            "econ": 35,
+            "stte": 75,
+            "natn": 35
+        }        
+    },
+ 
+
+
+
+    {
+        "name": "National Libertarianism",
+        "stats": {
+            "radi": 50,
+            "econ": 20,
+            "stte": 30,
+            "natn": 70
+        }        
+    },
+    {
+        "name": "National Progressivism",
+        "stats": {
+            "radi": 65,
+            "econ": 35,
+            "stte": 65,
+            "natn": 70
+        }        
+    },
+
+    {
+        "name": "Civic Nationalism",
+        "stats": {
+            "radi": 65,
+            "econ": 50,
+            "stte": 65,
+            "natn": 85
+        }        
+    },
+
+    {
+        "name": "Classical Progressivism",
+        "stats": {
+            "radi": 65,
+            "econ": 35,
+            "stte": 45,
+            "natn": 40
+        }        
+    },
+
+    {
+        "name": "LesbiaNRx",
+        "stats": {
+            "radi": 95,
+            "econ": 15,
+            "stte": 60,
+            "natn": 70
+        }        
+    },
+
+    {
+        "name": "Centrism",
+        "stats": {
+            "radi": 50,
+            "econ": 50,
+            "stte": 50,
+            "natn": 50
+        }        
+    },
+    
+    {
+        "name": "Neoliberalism",
+        "stats": {
+            "radi": 30,
+            "econ": 20,
+            "stte": 55,
+            "natn": 10
+        }        
+    },
+    
+    {
+        "name": "Moderate Progressivism",
+        "stats": {
+            "radi": 80,
+            "econ": 35,
+            "stte": 55,
+            "natn": 60
+        }        
+    },
+
+    {
+        "name": "Democratic Socialism",
+        "stats": {
+            "radi": 80,
+            "econ": 80,
+            "stte": 40,
+            "natn": 30
+        }        
+    },
+
+    {
+        "name": "Liberal Progressivism",
+        "stats": {
+            "radi": 75,
+            "econ": 35,
+            "stte": 55,
+            "natn": 50
+        }        
+    },
+
+    {
+        "name": "Progressive Centrism",
+        "stats": {
+            "radi": 90,
+            "econ": 45,
+            "stte": 55,
+            "natn": 55
+        }        
+    },
+   
+    {
+        "name": "Libertarianism",
+        "stats": {
+            "radi": 45,
+            "econ": 20,
+            "stte": 35,
+            "natn": 50
+        }        
+    },
+
+    {
+        "name": "Bleeding-heart Libertarianism",
+        "stats": {
+            "radi": 10,
+            "econ": 20,
+            "stte": 35,
+            "natn": 20
+        }        
+    },
+
+    {
+        "name": "Religious Socialism",
+        "stats": {
+            "radi": 60,
+            "econ": 70,
+            "stte": 60,
+            "natn": 45
+        }        
+    },
+    {
+        "name": "Religious Communism",
+        "stats": {
+            "radi": 60,
+            "econ": 95,
+            "stte": 60,
+            "natn": 35
+        }        
+    },
+    {
+        "name": "Third Way",
+        "stats": {
+            "radi": 65,
+            "econ": 55,
+            "stte": 50,
+            "natn": 40
+        }        
+    },
+  
+    
+  
+
+    {
+        "name": "Homofascism",
+        "stats": {
+            "radi": 100,
+            "econ": 50,
+            "stte": 80,
+            "natn": 80
+        }        
+    },
+
+    {
+        "name": "Stransserism",
+        "stats": {
+            "radi": 100,
+            "econ": 70,
+            "stte": 80,
+            "natn": 80
+        }        
+    },
+
+
+
+    {
+        "name": "Liberal Autocracy",
+        "stats": {
+            "radi": 40,
+            "econ": 30,
+            "stte": 80,
+            "natn": 30
+        }        
+    },
+
+    {
+        "name": "Luxemburgism",
+        "stats": {
+            "radi": 5,
+            "econ": 95,
+            "stte": 40,
+            "natn": 30
+        }        
+    },
+
+
+    {
+        "name": "Maoism",
+        "stats": {
+            "radi": 30,
+            "econ": 95,
+            "stte": 70,
+            "natn": 30
+        }        
+    },
+
+    {
+        "name": "Marxism-Leninism",
+        "stats": {
+            "radi": 25,
+            "econ": 95,
+            "stte": 95,
+            "natn": 30
+        }        
+    },
+
+    {
+        "name": "Mutualism",
+        "stats": {
+            "radi": 40,
+            "econ": 55,
+            "stte": 5,
+            "natn": 0
+        }        
+    },
+    {
+        "name": "Libertarian Socialism",
+        "stats": {
+            "radi": 40,
+            "econ": 45,
+            "stte": 30,
+            "natn": 50
+        }        
+    },
+    {
+        "name": "Social Democracy",
+        "stats": {
+            "radi": 65,
+            "econ": 50,
+            "stte": 55,
+            "natn": 55
+        }        
+    },
+
+    {
+        "name": "Democratic Confederalism",
+        "stats": {
+            "radi": 15,
+            "econ": 80,
+            "stte": 15,
+            "natn": 10
+        }        
+    },
+
+    {
+        "name": "Neozapatismo",
+        "stats": {
+            "radi": 15,
+            "econ": 90,
+            "stte": 10,
+            "natn": 10
+        }        
+    },
+
+    {
+        "name": "Anarchism Without Adjectives",
+        "stats": {
+            "radi": 5,
+            "econ": 50,
+            "stte": 5,
+            "natn": 0
+        }        
+    },
+
+    {
+        "name": "Anarcho-Communism",
+        "stats": {
+            "radi": 5,
+            "econ": 95,
+            "stte": 5,
+            "natn": 0
+        }        
+    },
+    {
+        "name": "Religious Anarchism",
+        "stats": {
+            "radi": 60,
+            "econ": 50,
+            "stte": 5,
+            "natn": 60
+        }        
+    }
+]
