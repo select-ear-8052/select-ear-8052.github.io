@@ -19,6 +19,16 @@
     },
 
     {
+        "question": "White privilege is a real and pressing concern.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
+    {
         "question": "We should focus on ending bigotry in our nation before looking to the rest of the world.",
         "effect": {
             "radi": 0,
@@ -131,6 +141,16 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "African Americans should receive reparations for slavery",
+        "effect": {
+            "radi": -5,
+            "econ": 5,
+            "stte": 0,
+            "natn": 0
+        }
+    },
     {
         "question": "We can't allow immigration from culturally conservative nations. Their cultures are oppressive.",
         "effect": {
@@ -140,6 +160,8 @@
             "natn": 10
         }
     },
+
+    
     {
         "question": "I support vaccine mandates.",
         "effect": {
@@ -176,6 +198,17 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "The races are better separated. The segregation practised in America and Apartheid South Africa is ideal",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "The welfare state needs to be downsized or abolished.",
         "effect": {
@@ -212,6 +245,17 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "The high crime rates caused by certain racial groups have much more to do with material conditions like poverty and income inequality than they have to do with race.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "Those with a greater ability to pay should receive better healthcare.",
         "effect": {
@@ -221,6 +265,17 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "I would hate to have child who isn't the same race as me",
+        "effect": {
+            "radi": 10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "Capitalism is irredeemable and needs to be dismantled.",
         "effect": {
@@ -249,6 +304,17 @@
             "conv": -0
         }
     },
+
+    {
+        "question": "There is no significant difference between the racial groups other than appearance",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "The United Nations is a net positive for society.",
         "effect": {
@@ -285,6 +351,17 @@
             "natn": 10
         }
     },
+
+    {
+        "question": "The Black Lives Matter movement (not the organisation) is an important political movement",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "Nobody's free until everybody's free.",
         "effect": {
@@ -312,6 +389,17 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "Indigenous liberation movements like the Zapatistas are a very good thing.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "Many traditions need to be conserved.",
         "effect": {
@@ -339,6 +427,8 @@
             "natn": 0
         }
     },
+
+
     {
         "question": "Government surveillance is a necessary evil.",
         "effect": {
@@ -357,6 +447,17 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "I'm comfortable with the increasing number of interracial couples.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "Society should be led by an educated elite, like a team of scientists and experts in various fields.",
         "effect": {
@@ -411,6 +512,27 @@
             "natn": 0
         }
     },
+
+    {
+        "question": "All Cops Are Bastards.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+
+    {
+        "question": "Police are nothing more than the guard dogs of capital",
+        "effect": {
+            "radi": -10,
+            "econ": -10,
+            "stte": -10,
+            "natn": 0
+        }
+    },
+
     {
         "question": "The choice to abort is up to the mother",
         "effect": {
@@ -474,6 +596,17 @@
             "natn": -5
         }
     },
+
+    {
+        "question": "People have the right to consume pornographic material.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": -5,
+            "natn": 0
+        }
+    },
+
     {
         "question": "International unions simply erode at a nation's sovereignty.",
         "effect": {
@@ -483,6 +616,18 @@
             "natn": 10
         }
     },
+
+  
+    {
+        "question": "\"Degeneracy\" is not a real thing.",
+        "effect": {
+            "radi": -10,
+            "econ": 0,
+            "stte": 0,
+            "natn": 0
+        }
+    },
+
     {
         "question": "A strong state is needed to crush reactionaries",
         "effect": {
@@ -492,6 +637,7 @@
             "natn": 0
         }
     },
+
     {
         "question": "We need to maintain race/gender quotas in workplaces.",
         "effect": {
@@ -501,6 +647,7 @@
             "natn": 0
         }
     },
+    
     {
         "question": "Workers' unions should be more powerful in modern society.",
         "effect": {
