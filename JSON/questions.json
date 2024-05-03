@@ -66,7 +66,7 @@
         }
     },
     {
-        "question": "second and Third Wave Feminism are great continuations of the feminist struggle.",
+        "question": "second and third wave feminism are great continuations of the feminist struggle.",
         "effect": {
             "radi": -10, 
             "econ": 0,
@@ -267,7 +267,7 @@
     },
 
     {
-        "question": "I would hate to have child who isn't the same race as me",
+        "question": "I would hate to have a child who isn't the same race as me",
         "effect": {
             "radi": 10,
             "econ": 0,
@@ -647,7 +647,7 @@
             "natn": 0
         }
     },
-    
+
     {
         "question": "Workers' unions should be more powerful in modern society.",
         "effect": {
@@ -751,7 +751,7 @@
         "question": "Anarcho-Capitalism is a desirable goal.",
         "effect": {
             "radi": 0,
-            "econ": 5,
+            "econ": -10,
             "stte": -10,
             "natn": 0
         }

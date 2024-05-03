@@ -72,6 +72,16 @@
     },
 
     {
+        "name": "Anarcho-Capitalism",
+        "stats": {
+            "radi": 50,
+            "econ": 15,
+            "stte": 10,
+            "natn": 10
+        }        
+    },
+
+    {
         "name": "LesbiaNRx",
         "stats": {
             "radi": 95,
@@ -97,6 +107,26 @@
             "radi": 30,
             "econ": 20,
             "stte": 55,
+            "natn": 10
+        }        
+    },
+
+    {
+        "name": "Libertarianism",
+        "stats": {
+            "radi": 50,
+            "econ": 20,
+            "stte": 20,
+            "natn": 10
+        }        
+    },
+
+    {
+        "name": "Bleeding-heart Libertarianism",
+        "stats": {
+            "radi": 75,
+            "econ": 20,
+            "stte": 20,
             "natn": 10
         }        
     },
