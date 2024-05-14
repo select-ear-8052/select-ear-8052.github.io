@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
+        <link href='style.css' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="x-icon" href="assets/icon.png">
+        <link rel="shortcut icon" type="x-icon" href="assets/icon.png">
+        <title>PoopValues</title>
+        <meta property="og:ttl" content="600">
+        <meta property="og:site_name" content="PoopValues.github.io">
+        <meta property="og:title" content="PoopValues">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="PoopValues is a political quiz aimed at cultural progressives">
+        <meta property="og:url" content="https://select-ear-8052.github.io/index.html">
+        <meta property="og:image" content="https://select-ear-8052.github.io/assets/previcon.png">
+        <meta property="og:image:width" content="1024">
+        <meta property="og:image:height" content="1024">
+        <meta name="theme-color" content="#000000" data-react-helmet="true">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>PoopValues</h1>
+        <hr>
+        <h1>Results</h1>
+        <h2>Consistency Axis: <span class="weight-300" id="consistency-label"></span></h2>
+        <div class="axis">
+            <img id="img-solid" src="assets/values/solid.png" height="128pt"/>
+            <div class="bar solid" id="bar-solid"><div class="text-wrapper" id="solid"></div></div>
+            <div class="bar liquid" id="bar-liquid"><div class="text-wrapper" id="liquid"></div></div>
+            <img id="img-liquid" src="assets/values/liquid.png" height="128pt"/>
+        </div>
+        <h2>Size Axis: <span class="weight-300" id="size-label"></span></h2>
+        <div class="axis">
+            <img id="img-pellets" src="assets/values/pellets.png" height="128pt"/>
+            <div class="bar pellets" id="bar-pellets"><div class="text-wrapper" id="pellets"></div></div>
+            <div class="bar logs" id="bar-logs"><div class="text-wrapper" id="logs"></div></div>
+            <img id="img-logs" src="assets/values/logs.png" height="128pt"/>
+        </div>
+        <h2>Smell Axis: <span class="weight-300" id="smell-label"></span></h2>
+        <div class="axis">
+            <img id="img-faint" src="assets/values/faint.png" height="128pt"/>
+            <div class="bar faint" id="bar-faint"><div class="text-wrapper" id="faint"></div></div>
+            <div class="bar biohazard" id="bar-biohazard"><div class="text-wrapper" id="biohazard"></div></div>
+            <img id="img-biohazard" src="assets/values/biohazard.png" height="128pt"/>
+        </div>
+        <h2>Speed Axis: <span class="weight-300" id="speed-label"></span></h2>
+        <div class="axis">
+            <img id="img-speedy" src="assets/values/speedy.png" height="128pt"/>
+            <div class="bar speedy" id="bar-speedy"><div class="text-wrapper" id="speedy"></div></div>
+            <div class="bar slow" id="bar-slow"><div class="text-wrapper" id="slow"></div></div>
+            <img id="img-slow" src="assets/values/slow.png" height="128pt"/>
+        </div>
+        <!-- <h2>Conventionalism Axis: <span class="weight-300" id="conventionalism-label"></span></h2>
+        <div class="axis">
+            <img id="img-toilet_paper" src="assets/values/toilet_paper.svg" height="128pt"/>
+            <div class="bar toilet_paper" id="bar-toilet_paper"><div class="text-wrapper" id="toilet_paper"></div></div>
+            <div class="bar bidet" id="bar-bidet"><div class="text-wrapper" id="bidet"></div></div>
+            <img id="img-bidet" src="assets/values/bidet.svg" height="128pt"/>
+        </div> -->
+        <h2>Closest Match: <span class="weight-300" id="ideology-label"></span></h2>
+        <p>Ideological matching is a work in progress, and is much less accurate than the values and axes.</p>
+        <p>You can send these results by copying and pasting the URL at the top of the page or using the image below. Think your matched ideology was wrong? Want to help us calibrate the test? Send the results along with your political ideology to afunhumaninter#9121 on Discord (or u/afunhumaninter on Reddit) or any other comments, questions, or criticism. </p>
+        <hr/>
+        <img src="" id="banner">
+        <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+        <script type="module" src="scripts/results.js"></script>
+    </body>
+</html>

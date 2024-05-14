@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Poop-and-Text",
+        "stats": {
+            "cons": 50,
+            "size": 60,
+            "smell": 50,
+            "speed": 30
+        }        
+    },
+    {
+        "name": "Consistent Crapper",
+        "stats": {
+            "cons": 70,
+            "size": 60,
+            "smell": 50,
+            "speed": 60
+        }
+    },
+
+    {
+        "name": "Angel",
+        "stats": {
+            "cons": 50,
+            "size": 50,
+            "smell": 0,
+            "speed": 90
+        }
+    },
+
+    {
+        "name": "Demon",
+        "stats": {
+            "cons": 90,
+            "size": 90,
+            "smell": 90,
+            "speed": 10
+        }
+    },
+
+    {
+        "name": "Speed Demon",
+        "stats": {
+            "cons": 90,
+            "size": 90,
+            "smell": 90,
+            "speed": 90
+        }
+    },
+
+
+    {
+        "name": "Runny pooper",
+        "stats": {
+            "cons": 30,
+            "size": 30,
+            "smell": 60,
+            "speed": 60
+        }
+    },
+
+
+    {
+        "name": "Explosive Diarrhea",
+        "stats": {
+            "cons": 10,
+            "size": 30,
+            "smell": 70,
+            "speed": 70
+        }
+    },
+
+    {
+        "name": "Constipation",
+        "stats": {
+            "cons": 80,
+            "size": 70,
+            "smell": 60,
+            "speed": 30
+        }
+    },
+
+    {
+        "name": "Acute Constipation",
+        "stats": {
+            "cons": 85,
+            "size": 75,
+            "smell": 60,
+            "speed": 15
+        }
+    },
+
+    {
+        "name": "Turd Centrism",
+        "stats": {
+            "cons": 50,
+            "size": 50,
+            "smell": 50,
+            "speed": 50
+        }
+    },
+
+    {
+        "name": "Polite Pooper",
+        "stats": {
+            "cons": 50,
+            "size": 50,
+            "smell": 30,
+            "speed": 70
+        }
+    },
+
+    {
+        "name": "Toilet Vandal",
+        "stats": {
+            "cons": 20,
+            "size": 70,
+            "smell": 70,
+            "speed": 50
+        }
+    }
+
+
+
+  
+]

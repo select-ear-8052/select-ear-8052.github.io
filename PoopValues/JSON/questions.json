@@ -1,0 +1,218 @@
+[
+    {
+        "question": "I bring a book or magazine to the toilet.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "People complain about the smell while I use the toilet or afterwards.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": -10,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I like to use scented candles or air fresheners in the bathroom.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 10,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I eat fast foods very often.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": -10,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I take my time while using the toilet, not rushing the process.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "I often multitask while using the toilet, such as checking emails or texting.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "It takes great effort for me to push a turd out.",
+        "effect": {
+            "cons": -10,
+            "size": 5,
+            "smell": 0,
+            "speed": -5
+        }
+    },
+    {
+        "question": "When using toilet paper, it takes me a lot of wipes to clean up.",
+        "effect": {
+            "cons": 10,
+            "size": 0,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I tend to hold my bowel movements until I am in a familiar or private environment.",
+        "effect": {
+            "cons": 0,
+            "size": -10,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I only need to wipe a few times to get clean.",
+        "effect": {
+            "cons": -10,
+            "size": 0,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I hate the smell of my poop.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "My diet includes lots of fibre.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": 10
+        }
+    },
+    {
+        "question": "I suffer from constipation.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "I bring a phone into the bathroom.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "I have a designated 'reading material' area in my bathroom for entertainment.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+    {
+        "question": "I only need to flush once.",
+        "effect": {
+            "cons": 5,
+            "size": -10,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I don't spray perfume after using the toilet.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": -10,
+            "speed": 0
+        }
+    },
+    {
+        "question": "I try to establish a regular schedule for using the restroom.",
+        "effect": {
+            "cons": 0,
+            "size": 5,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+ 
+    {
+        "question": "I have a playlist or specific music I like to listen to while using the toilet.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 0,
+            "speed": -10
+        }
+    },
+
+
+    {
+        "question": "I have a habit of flushing the toilet multiple times during or after using the restroom.",
+        "effect": {
+            "cons": 0,
+            "size": -10,
+            "smell": 0,
+            "speed": 0
+        }
+    },
+  
+    {
+        "question": "I prefer to have a window open or ventilation system running in the bathroom.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 10,
+            "speed": 0
+        }
+    },
+
+
+
+    {
+        "question": "I prefer to use unscented or natural cleaning products in the bathroom.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": -10,
+            "speed": 0
+        }
+    },
+  
+ {
+        "question": "I have a preference for using scented toilet paper for a more pleasant experience.",
+        "effect": {
+            "cons": 0,
+            "size": 0,
+            "smell": 10,
+            "speed": 0
+        }
+    }
+ 
+]
