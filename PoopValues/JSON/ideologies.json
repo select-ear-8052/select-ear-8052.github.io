@@ -31,7 +31,7 @@
     {
         "name": "Demon",
         "stats": {
-            "cons": 10,
+            "cons": 90,
             "size": 90,
             "smell": 90,
             "speed": 10
@@ -52,7 +52,7 @@
     {
         "name": "Runny pooper",
         "stats": {
-            "cons": 70,
+            "cons": 30,
             "size": 30,
             "smell": 60,
             "speed": 60
@@ -63,7 +63,7 @@
     {
         "name": "Explosive Diarrhea",
         "stats": {
-            "cons": 90,
+            "cons": 10,
             "size": 30,
             "smell": 70,
             "speed": 70
@@ -73,7 +73,7 @@
     {
         "name": "Constipation",
         "stats": {
-            "cons": 20,
+            "cons": 80,
             "size": 70,
             "smell": 60,
             "speed": 30
@@ -83,7 +83,7 @@
     {
         "name": "Acute Constipation",
         "stats": {
-            "cons": 15,
+            "cons": 85,
             "size": 75,
             "smell": 60,
             "speed": 15
@@ -113,7 +113,7 @@
     {
         "name": "Toilet Vandal",
         "stats": {
-            "cons": 80,
+            "cons": 20,
             "size": 70,
             "smell": 70,
             "speed": 50

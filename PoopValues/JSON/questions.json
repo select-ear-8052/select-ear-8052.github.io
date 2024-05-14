@@ -18,7 +18,7 @@
         }
     },
     {
-        "question": "I like to use scented candles or air fresheners in the bathroom.",
+        "question": "I like to use air fresheners in the bathroom.",
         "effect": {
             "cons": 0,
             "size": 0,
@@ -196,22 +196,22 @@
 
 
     {
-        "question": "I prefer to use unscented or natural cleaning products in the bathroom.",
+        "question": "I have clogged the toilet in the past month.",
         "effect": {
             "cons": 0,
-            "size": 0,
-            "smell": -10,
+            "size": 10,
+            "smell": 0,
             "speed": 0
         }
     },
   
  {
-        "question": "I have a preference for using scented toilet paper for a more pleasant experience.",
+        "question": "I have needed to take a laxative at least once in the past year.",
         "effect": {
             "cons": 0,
             "size": 0,
-            "smell": 10,
-            "speed": 0
+            "smell": 0,
+            "speed": -10
         }
     }
  
